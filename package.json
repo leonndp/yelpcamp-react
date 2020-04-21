@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react-responsive-picture": "^3.2.2"
+  },
+  "name": "yelpcamp-react",
+  "version": "1.0.0",
+  "description": "YelpCamp recreated in React",
+  "main": "index.js",
+  "repository": "git@github.com:leonndp/yelpcamp-react.git",
+  "author": "Leon N. Dela Pena",
+  "license": "MIT"
+}
